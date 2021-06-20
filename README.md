@@ -19,7 +19,7 @@ The purpose of this module was to learn VBA and to re-think how an existing VBA 
 	
 ![VBA Challenge 2017](Resources/VBA_Challenge_2017.png "VBA Challenge 2017")
 
-![VBA Challenge 2018](Resources/VAB_Challenge_2018.png "VBA Challenge 2018")
+![VBA Challenge 2018](Resources/VBA_Challenge_2018.png "VBA Challenge 2018")
 
 ### The differences between the refactored and original code
    - The original script utilized nested loops while the refactored script used three loops that were not nested

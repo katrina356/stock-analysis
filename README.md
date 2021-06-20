@@ -12,11 +12,13 @@ The purpose of this module was to learn VBA and to re-think how an existing VBA 
    - The original code took on average .6328125 seconds to run for 2017 and 2018 data.  Note the 2018 data takes slightly longer to run than the 2017 data
 
 	![Original Script 2017](/Resources/Original_Script_2017.png)	
+	
 	![Original Script 2018](/Resources/Original_Script_2018.png)
 
    - The refactored code took on average .171875 seconds to run for 2017 and 2018 data.  Again the 2018 data took slightly longer to run than the 2017 data
 	
 	![Refactored Script 2017](/Resources/VBA_Challenge_2017.png)	
+	
 	![Refactored Script 2018](/Resources/VBA_Challenge_2018.png)
 
 # The differences between the refactored and original code

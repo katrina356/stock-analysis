@@ -13,11 +13,13 @@ The purpose of this module was to learn VBA and to re-think how an existing VBA 
 
 ![Original Script 2017](Resources/Original_Script_2017.png "Original 2017")
 
-![Original Script 2018](Resource/Original_Script_2018.png "Original 2018")
+![Original Script 2018](Resources/Original_Script_2018.png "Original 2018")
 
    - The refactored code took on average .171875 seconds to run for 2017 and 2018 data.  Again the 2018 data took slightly longer to run than the 2017 data
 	
-	
+![VBA Challenge 2017](Resources/VBA_Challenge_2017.png "VBA Challenge 2017")
+
+![VBA Challenge 2018](Resources/VAB_Challenge_2018.png "VBA Challenge 2018")
 
 ### The differences between the refactored and original code
    - The original script utilized nested loops while the refactored script used three loops that were not nested
